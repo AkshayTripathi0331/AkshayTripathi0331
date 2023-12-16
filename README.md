@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### Hi there 👋
+
 # Developer Profile - Akshay Tripathi
 
 ## Summary
@@ -41,4 +43,4 @@ Pedigree is a comprehensive web application project where I played a crucial rol
   - Developed automation scripts using Selenium for efficient and reliable processes.
   - Utilized BeautifulSoup for web scraping tasks, extracting relevant data for analysis.
 
-Feel free to reach out if you have any questions or if there's an opportunity for collaboration! 😊
+Feel free to reach out if you have any questions or if there's an opportunity for collaboration! 😊Feel free to reach out if you have any questions or if there's an opportunity for collaboration! 😊
