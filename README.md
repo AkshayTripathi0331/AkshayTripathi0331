@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-### Hi there 👋
-
 # Developer Profile - Akshay Tripathi
 
 ## Summary
