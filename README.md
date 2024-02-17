@@ -6,6 +6,16 @@
 
 Passionate learner and detail-oriented developer with a strong background in web development and backend programming. Proficient in React, HTML, CSS, and JSX for building dynamic and responsive user interfaces. Skilled in Python, FastAPI, Selenium, and BeautifulSoup for backend development, automation, and web scraping. Contributed significantly to the Pedigree project, demonstrating expertise in both frontend and backend technologies.
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkshayTripathi0331&theme=radical&show_icons=true)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AkshayTripathi0331&theme=dracula&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+
+<div align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshayTripathi0331&layout=compact&theme=react&count_private=true" /width=498>
+</div>
+
+
 ## Skills
 
 ### Frontend
@@ -42,3 +52,7 @@ Pedigree is a comprehensive web application project where I played a crucial rol
   - Utilized BeautifulSoup for web scraping tasks, extracting relevant data for analysis.
 
 Feel free to reach out if you have any questions or if there's an opportunity for collaboration! 😊Feel free to reach out if you have any questions or if there's an opportunity for collaboration! 😊
+
+### Hey😃, you're counted  in visitors list. 
+![Profile Views](https://profile-counter.glitch.me/AkshayTripathi0331/count.svg)
+
