@@ -16,7 +16,79 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshayTripathi0331&layout=compact&theme=react&count_private=true" width="498">
 </div>
 
-## Skills
+
+### 🛠 &nbsp;Skills:
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
+
+<table>
+  <tr>  
+  <td>💻 <strong>Frontend Development</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React">
+      <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
+      <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux">
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+      <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material-UI">
+      <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery">
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+    </td>
+  </tr>
+  <tr>
+   <tr>
+  <td>🌐 <strong>Web Development</strong></td>
+  <td>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+    <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  </td>
+</tr>
+
+  <td>💻 <strong>Backend Development</strong></td> 
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+    </td>
+    </tr>
+    <tr>
+      
+  <td>📔 <strong>Framework</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+      <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
+      <!-- Add other framework badges here -->
+    </td>
+  </tr>
+
+  <tr>
+  <td>:books: <strong>Database</strong></td>
+  <td>
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+    <img src="https://img.shields.io/badge/DBMS-FF6F00?style=for-the-badge&logoColor=white" alt="DBMS">
+  </td>
+</tr>
+
+<tr>
+  <td>📱 <strong>Mobile Development</strong></td>
+  <td>
+    <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Native">
+  </td>
+</tr>
+
+<tr>
+  <td>👩‍💻 <strong>IDE</strong></td>
+  <td>
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+  </td>
+</tr>
+
+</table>
+
+<!-- Add more rows for other categories -->
+
+<!--## Skills
 
 ### Frontend
 - ![React](https://img.shields.io/badge/React-Advanced-blue) (Proficient in building complex UI components and managing state effectively)
@@ -44,7 +116,7 @@
 ### Version Control & Other Tools
 - ![Git/GitHub](https://img.shields.io/badge/Git%2FGitHub-Advanced-blue) (Proficient in version control with Git and collaboration on GitHub)
 - ![Linux](https://img.shields.io/badge/Linux-Intermediate-yellow) (Familiar with Linux operating system)
-- ![Firebase](https://img.shields.io/badge/Firebase-Intermediate-orange) (Experience in using Firebase for backend services and hosting)
+- ![Firebase](https://img.shields.io/badge/Firebase-Intermediate-orange) (Experience in using Firebase for backend services and hosting)-->
 
 ## Projects Highlights
 
