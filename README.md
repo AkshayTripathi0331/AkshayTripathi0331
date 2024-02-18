@@ -1,6 +1,9 @@
-### Hi there! 👋
+<!--### Hi there! 👋
 
-# Developer Profile - Akshay Tripathi
+# Developer Profile - Akshay Tripathi -->
+### <h1 align="center">Hello Folks 👋, I'm Akshay Tripathi</h1><br>
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
+
 
 - Passionate learner and detail-oriented developer with a strong background in web development and backend programming.
 - Proficient in:
@@ -8,13 +11,23 @@
   - Python, FastAPI, Selenium, and BeautifulSoup for backend development, automation, and web scraping.
 - Contributed significantly to a comprehensive web application project, demonstrating expertise in both frontend and backend technologies.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkshayTripathi0331&theme=radical&show_icons=true)
+ <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShrutiMishra-2002) -->
+  ### :zap: Most used languages ❤️
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshayTripathi0331&layout=compact&hide=html&theme=dracula&hide_border=true"  style="height: 90%;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AkshayTripathi0331&theme=dracula"  style="width: 24%;">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AkshayTripathi0331&theme=dracula&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-<div align="left">
+
+<!--     <img width="65%" src= "https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AkshayTripathi0331&theme=radical&utcOffset=5">  -->
+</a>
+</p>
+
+  <br><br><br>
+
+<!--<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshayTripathi0331&layout=compact&theme=react&count_private=true" width="498">
-</div>
+</div>-->
 
 
 ### 🛠 &nbsp;Skills:
@@ -118,9 +131,25 @@
 - ![Linux](https://img.shields.io/badge/Linux-Intermediate-yellow) (Familiar with Linux operating system)
 - ![Firebase](https://img.shields.io/badge/Firebase-Intermediate-orange) (Experience in using Firebase for backend services and hosting)-->
 
-## Projects Highlights
+### :zap: GitHub Stats 📈
 
-#### Responsibilities and Achievements
+
+<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkshayTripathi0331&theme=radical&show_icons=true)-->
+
+<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AkshayTripathi0331&theme=dracula&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)-->
+
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
+
+<p align="center">&nbsp;
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AkshayTripathi0331&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" />
+ <br><br>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkshayTripathi0331&theme=dracula" />
+</p>
+<!-- <br><br><br> -->
+
+
+## Projects Highlights
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 - **Frontend Development:**
   - Utilized React to create dynamic and interactive user interfaces.
@@ -138,4 +167,25 @@
 
 Feel free to reach out if you have any questions or if there's an opportunity for collaboration! 😊
 
-![Profile Views](https://profile-counter.glitch.me/AkshayTripathi0331/count.svg)
+
+<!--<br><br><br>
+ <h4 align="center">Wait!👋 don't forget to check out my social media handles <img align="center" src="images\Handshake.gif" height="30px"></h4>
+
+<p align="center">
+  <code><a href="https://akshaytripathi630@gmail.com/" target="_blank"> 
+  <img src="images\Social Media\Gmail_icon_(2020).svg" alt="Gmail"  width="30px"/> </a></code>
+  <code><a href="https://www.linkedin.com/in/akshaytripathi1050" target="_blank">
+  <img align="center" src="images\Social Media\linkedin.svg" alt="linkedin" width="30px" /></a></code>  
+  <code><a href="#" target="_blank">
+  <img align="center" src="images\Social Media\twitter.svg" alt="Twitter" width="30px" /></a></code>
+</p>
+<br/>
+<br /> -->
+
+<div align="center">
+    <img src="https://profile-counter.glitch.me/AkshayTripathi0331/count.svg" alt="Profile Views">
+    <br>
+    © 2021 Akshay Tripathi
+</div>
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
