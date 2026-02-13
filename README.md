@@ -4,72 +4,85 @@
 </p>
 
 <p align="center">
-  🧠 Generative AI Engineer @ Shorthills AI | 🛠 Backend & AI Infra Specialist | 🚀 Open Source Contributor
+  🧠 Software Development Engineer - Generative AI + Backend Specialist | 🛠 Building RAG Systems & Agentic AI Workflows | 🚀 LLM Fine-tuning Expert
 </p>
 
 ---
 
 ### 🔍 About Me
-- I'm currently working as a **Generative AI Engineer at Shorthills AI**, where I design and deploy scalable AI systems powered by LLMs like **Meta-LLaMA**, using cutting-edge tools such as **vLLM, RAG pipelines, FastAPI, Redis, Celery,** and **MongoDB Atlas**.
-- Passionate about integrating **AI reasoning** with **backend engineering** to solve real-world problems.
-- Contributor to the **LangChain** open-source ecosystem.
-- Strong interest in **RAG, transformers, vector databases**, and **deployment of AI/ML applications at scale**.
+- **Software Development Engineer @ Shorthills AI** (~2.5 years, joined July 2023)
+- Specialized in building **production-grade GenAI systems**: RAG pipelines, Agentic AI workflows, and LLM fine-tuning
+- Expert in **backend engineering** with FastAPI, Django, and async task processing (Celery + Redis)
+- Designed and deployed **hybrid search systems** using MongoDB Atlas Vector Search, Weaviate v4, and keyword scoring
+- Optimized LLM inference with **vLLM**, fine-tuned **Llama 3** models, and built AWS agentic orchestrators
+- Strong focus on **scalable AI infrastructure** and **real-world AI applications**
 
 ---
 
-### 💡 What I’m Working On
-- 🧠 **Agent Assist** – Multi-agent intelligent system with RAG using LLaMA 3, boosting support accuracy to 85%.
-- 🧾 **Automated Review Pipeline** – Generative content engine (LLaMA 3.8B + Weaviate + Redis) to cut manual effort by 40%.
-- ⚙️ **Asynchronous Pipelines** – Built robust backend infra with **Celery, Redis**, & **FastAPI**, improving throughput by 40%.
-- 🔍 **Hybrid Search Systems** – Combined semantic + keyword search using MongoDB vector index + text index.
+### 💡 What I'm Working On
+- 🤖 **Agent Assist (Agentic RAG)** – Hybrid RAG with 100+ intents, 95%+ UAT accuracy | MongoDB Atlas + RapidFuzz + AWS Lambda orchestration
+- 🎯 **GetHelp (Intent & Entity Platform)** – Multi-intent system handling 10L+ queries/month | Fine-tuned Llama 3-8B | 190+ hierarchical intents
+- 📊 **BestViewsReviews** – Review intelligence system with Llama 3 fine-tuning (+25% accuracy) | Weaviate v4 + Redis | vLLM optimization (-30% latency)
+- 🧬 **Genysis** – Genetic history assistant reducing consultation time by 20-30 minutes | RAG + PedigreeJS integration
 
 ---
 
-### 🧠 AI & Infra Stack
+### 🧠 GenAI & Backend Stack
 <table>
 <tr>
-  <td><strong>🧠 AI/LLMs</strong></td>
+  <td><strong>🤖 GenAI</strong></td>
   <td>
-    <img src="https://img.shields.io/badge/LLaMA-7B16FF?style=for-the-badge&logo=openai&logoColor=white" />
-    <img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/vLLM-purple?style=for-the-badge" />
     <img src="https://img.shields.io/badge/RAG-00BCD4?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Transformers-orange?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Hybrid_Search-4CAF50?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Agentic_AI-9C27B0?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Prompt_Engineering-FF5722?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/LLM_Fine--tuning-7B16FF?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Llama_3-7B16FF?style=for-the-badge&logo=openai&logoColor=white" />
+    <img src="https://img.shields.io/badge/vLLM-purple?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+    <img src="https://img.shields.io/badge/Vanna_AI-00C7B7?style=for-the-badge" />
   </td>
 </tr>
 <tr>
   <td><strong>⚙️ Backend</strong></td>
   <td>
     <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+    <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge" />
     <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   </td>
 </tr>
 <tr>
-  <td><strong>🌐 Frontend</strong></td>
-  <td>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  </td>
-</tr>
-<tr>
-  <td><strong>🗃 Databases</strong></td>
+  <td><strong>🗃 Databases & Infra</strong></td>
   <td>
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
     <img src="https://img.shields.io/badge/Weaviate-ED7D31?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  </td>
+</tr>
+<tr>
+  <td><strong>💻 Languages</strong></td>
+  <td>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   </td>
 </tr>
 <tr>
   <td><strong>☁️ Tools</strong></td>
   <td>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
     <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-    <img src="https://img.shields.io/badge/Ngrok-1F1F1F?style=for-the-badge&logo=ngrok&logoColor=white" />
-    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+    <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge" />
   </td>
 </tr>
 </table>
@@ -84,29 +97,35 @@
 
 ---
 
-### 🧩 Featured Projects
-- 🧠 **Agent Assist (Enterprise RAG)**  
-  RAG-based intelligent assistant with LLaMA 3 + MongoDB Atlas + Redis + FastAPI — achieved 85% UAT accuracy.
+### 🚀 Professional Experience Highlights
+**Software Development Engineer @ Shorthills AI** (July 2023 - Present)
 
-- ⚡ **BestViewsReviews Content Engine**  
-  Automated LLM-powered pipeline with vLLM, Weaviate & FastAPI — reduced manual work by 40%.
+- **Agent Assist (Agentic RAG System)** – Built hybrid RAG with MongoDB Atlas Vector Search achieving 95%+ accuracy | Implemented intent engine with 100+ intents | 70% reduction in manual effort via AWS Lambda orchestration
 
-- 🧾 **Genysis Platform**  
-  Microservice APIs to unify frontend-backend UX. Dockerized deployment with secure data flow.
+- **GetHelp (Intent & Entity Platform)** – Engineered multi-intent system handling 10L+ queries/month | Fine-tuned Llama 3-8B Instruct | Designed 190+ hierarchical intents with multi-label inference
 
-- ✅ [**myTodoList**](https://todolist-qbdw.onrender.com/) | [Code](https://github.com/AkshayTripathi0331/MyTodoList)  
-  React-based task manager with persistent local storage.
+- **BestViewsReviews (Review Intelligence)** – Fine-tuned Llama 3 8B on 10k+ samples (+25% accuracy) | Hybrid RAG with Weaviate v4 + Redis | vLLM optimization (-30% latency) | 50% faster retrieval
 
-- 🌆 [**CityGuide**](https://akshaytripathi0331.github.io/raebareli.github.io/) | [Code](https://github.com/AkshayTripathi0331/raebareli.github.io)  
-  A tourism-focused static website built with HTML/CSS/JS/Bootstrap.
+- **Genysis (Genetic History Assistant)** – Reduced consultation time by 20-30 minutes | Lightweight RAG with smart chunking | PedigreeJS family-tree integration
+
+---
+
+### 🧩 Personal Projects
+- 📍 [**PlacePicker**](https://github.com/AkshayTripathi0331/PlacePicker) – Location picker app using Google Maps API
+- 🎯 [**QuizPlay**](https://github.com/AkshayTripathi0331/QuizPlay) – Quiz application for interactive learning
+- 🛒 [**ShoppyCart**](https://github.com/AkshayTripathi0331/ShoppyCart) – E-commerce platform with smooth UX
+- 🎮 [**Tic-tac-toe**](https://github.com/AkshayTripathi0331/Tic-tak-toe) – Classic game in JavaScript
+- 💰 [**InvestMate**](https://github.com/AkshayTripathi0331/InvestMate) – Investment tracking app
+- ✅ [**Habitify**](https://github.com/AkshayTripathi0331/Habitify) – Habit tracking with clean UI
+- 📝 [**Snapnote**](https://github.com/AkshayTripathi0331/Snapnote) – Quick note-taking app
 
 ---
 
 ### 🏅 Achievements
-- 💡 Contributor to **LangChain**.
-- 📝 Improved 160+ articles on **GeeksforGeeks**.
-- 🏆 Ranked in **Top 5%** in NPTEL’s Digital Circuits.
-- 📜 Completed React, AWS, and Full-Stack Bootcamps from LinkedIn & Udemy.
+- 🤝 Contributor to **LangChain** open-source ecosystem
+- 📝 Authored 160+ technical articles on **GeeksforGeeks**
+- 🏆 Ranked in **Top 5%** in NPTEL's Digital Circuits
+- 📜 Completed React, AWS, and Full-Stack Bootcamps from LinkedIn & Udemy
 
 ---
 
@@ -114,8 +133,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshaytripathi1050)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AkshayTripathi0331)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshaytripathi1050@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-self-xi-74.vercel.app/)
 
 ---
-
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
