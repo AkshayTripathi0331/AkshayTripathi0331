@@ -100,13 +100,13 @@
 ### 🚀 Professional Experience Highlights
 **Software Development Engineer @ Shorthills AI** (July 2023 - Present)
 
-- **Agent Assist (Agentic RAG System)** – Built hybrid RAG with MongoDB Atlas Vector Search achieving 95%+ accuracy | Implemented intent engine with 100+ intents | 70% reduction in manual effort via AWS Lambda orchestration
+- **Agent Assist (Agentic RAG System)** – Hybrid RAG using MongoDB Atlas Vector Search + keyword scoring | Intent engine with 100+ intents (95%+ UAT accuracy) | RapidFuzz fallback classifier (40%+ reduction) | Celery + Redis async pipelines (14+ sources) | AWS agentic orchestrator (70% manual effort reduction)
 
-- **GetHelp (Intent & Entity Platform)** – Engineered multi-intent system handling 10L+ queries/month | Fine-tuned Llama 3-8B Instruct | Designed 190+ hierarchical intents with multi-label inference
+- **GetHelp (Intent & Entity Platform)** – Engineered multi-intent system handling 10L+ queries/month | 190+ hierarchical intents + multi-label inference | Fine-tuned Llama 3-8B Instruct | 15k+ synthetic training samples
 
-- **BestViewsReviews (Review Intelligence)** – Fine-tuned Llama 3 8B on 10k+ samples (+25% accuracy) | Hybrid RAG with Weaviate v4 + Redis | vLLM optimization (-30% latency) | 50% faster retrieval
+- **BestViewsReviews (Review Intelligence)** – Automated experience-rich review snippet extraction | Hybrid RAG with Weaviate v4 + Redis | Fine-tuned Llama 3 8B (+25% accuracy) | vLLM optimization (-30% latency) | 50% faster retrieval speeds
 
-- **Genysis (Genetic History Assistant)** – Reduced consultation time by 20-30 minutes | Lightweight RAG with smart chunking | PedigreeJS family-tree integration
+- **Genysis (Genetic History Assistant)** – Reduced consultation time by 20-30 minutes | Lightweight RAG with smart chunking | Prompt flows for structured interviews | PedigreeJS family-tree integration
 
 ---
 
